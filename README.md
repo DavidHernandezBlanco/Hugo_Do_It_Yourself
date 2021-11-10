@@ -4,7 +4,7 @@ Regla 1. Poner enlace en las palabras: manga (https://dragonball.fandom.com/es/w
 
 Regla 2. Utilizar Font Awesome para añadir un icono de página y Google Fonts para cambiar el tipo de fuente del documento (A tu gusto)
 
-Regla 3. Los elementos h1 estarán subrayados (text-decoration: underline;), de color orange y alineados al centro
+Regla 3. Los elementos h1 estarán subrayados (text-decoration: underline;), de color orange y alineados al centrog
 
 Regla 4. El elemento body tendrá margen 10% y relleno de 30% únicamente a la derecha
 
