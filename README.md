@@ -2,11 +2,11 @@
 
 Regla 1. Poner enlace en las palabras: manga (https://dragonball.fandom.com/es/wiki/Manga) y Akira Toriyama (https://dragonball.fandom.com/es/wiki/Akira_Toriyama)
 
-Regla 2. El elemento body tendrá margen 10% y relleno de 30% únicamente a la derecha
+Regla 2. Utilizar Font Awesome para añadir un icono de página y Google Fonts para cambiar el tipo de fuente del documento (A tu gusto)
 
 Regla 3. Los elementos h1 estarán subrayados (text-decoration: underline;), de color orange y alineados al centro
 
-Regla 4. Utilizar Font Awesome para añadir un icono de página y Google Fonts para cambiar el tipo de fuente del documento (A tu gusto)
+Regla 4. El elemento body tendrá margen 10% y relleno de 30% únicamente a la derecha
 
 Regla 5. Los elementos con clase selectors tendrán un relleno de 5%, un border: solid darkcyan 1px; y esquinas redondeadas border-radius con valor de 5px
 
