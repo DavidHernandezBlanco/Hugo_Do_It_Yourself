@@ -1,25 +1,35 @@
 # Do it yourself
 
-Regla 1. Utilizar el selector universal * para cambiar el tipo de fuente del documento
+Regla 1. Poner enlace en las palabras: manga (https://dragonball.fandom.com/es/wiki/Manga), Akira Toriyama (https://dragonball.fandom.com/es/wiki/Akira_Toriyama) y Buyon (https://dragonball.fandom.com/es/wiki/Buyon)
 
-Regla 2. El elemento body tendrá margen 0 y relleno de 20% únicamente a la derecha y izquierda
+Regla 2. Utilizar Font Awesome para añadir un icono de página y Google Fonts para cambiar el tipo de fuente del documento (A tu gusto)
 
-Regla 3. Los elementos h1 estarán subrayados (text-decoration: underline;), de color darkcyan y alineados al centro
+Regla 3. Pon de nombre de titulo GOKU Y SUS AVENTURAS
 
-Regla 4. Los elementos con clase selector tendrán color lightcyan
+Regla 4. Los elementos h1 estarán subrayados (text-decoration: underline;), alineados al centro
 
-Regla 5. Los elementos con clase selectors tendrán un relleno de 5%, un border: solid darkcyan 1px; y esquinas redondeadas border-radius con valor de 5px
+Regla 5. Los elementos titulo serán de color naranja
 
-Regla 6. Los elementos con identificador (id) universal tendrán color lightgoldenrodyellow
+Regla 6. El elementos body tendrá margen 10% y relleno de 30% únicamente a la derecha
 
-Regla 7. Los elementos h2 con clase selector y los elementos h2 con identificador (id) universal tendrán color de fondo darkcyan, relleno de 1% y esquinas redondeadas con valor de 5px
+Regla 7. Los elementos h2 estarán subrayados (text-decoration: underline;), de color green y alineados al centro
 
-Regla 8. Los elementos span tendrán font-weight: 900; color de fondo negro y color de texto blanco
+Regla 8. Los elementos li tendrán background-color: black y color: white
 
-Regla 9. Los elementos a que sean hijos directos de algún li tendrán text-decoration: none
+Regla 9. Los elementos img tendrán un ancho width de 90%, un border: solid coral 1px; y esquinas redondeadas con valor de 10px
 
-Regla 10. Los elementos h3 tendrán color de fondo background-color: rgba(0, 139, 139, 0.529);, relleno de 0.5px y esquinas redondeadas con valor de 5px
+Regla 10. Los elementos div a que sean hijos directos de algún li tendrán text-decoration: none
 
-Regla 11. Los elementos div que sean descendientes de un elemento con id gallery tendrán un ancho width de 100%
+Regla 11. Los elementos con clase borde tendrán relleno de 5% y esquinas redondeadas con valor de 5px
 
-Regla 12. Los elementos img tendrán un ancho width de 100%, un border: solid darkcyan 1px; y esquinas redondeadas con valor de 5px
+Regla 12. Los elementos con id body tendrán margen 0 y relleno de 20% a la derecha y izquierda
+
+Regla 13. Los elementos con clase importante tienen background-color: yellow y relleno 5%
+
+Regla 14. Los elementos ul que estén en un div tendrán relleno de 5% y esquinas redondeadas con valor de 5px
+
+Regla 15. Los elementos div tendrán un ancho width de 100%
+
+
+
+
